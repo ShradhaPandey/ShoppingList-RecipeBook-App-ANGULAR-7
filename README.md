@@ -8,8 +8,4 @@ Technologies used:
 # node.js 
 # Firebase databse 
 
-Funtionality:
-
-User can navigate through "recipe" tab and "shopping list" tab.
-Recipe tab:
-
+Screenshot of the working project: 
