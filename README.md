@@ -4,7 +4,7 @@
 # Angular 7
 # Bootstrap 3
 
-# Funtionality:
+Funtionality:
 
 User can navigate through "recipe" tab and "shopping list" tab.
 Recipe tab:
