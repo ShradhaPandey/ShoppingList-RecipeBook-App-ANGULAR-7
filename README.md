@@ -1,8 +1,10 @@
 # ShoppingList-RecipeBook-App-ANGULAR-7
 
-# Technologies used:
-# Angular 7
-# Bootstrap 3
+Technologies used:
+Angular 7
+Bootstrap 3
+node.js 
+Firebase databse for backend
 
 Funtionality:
 
